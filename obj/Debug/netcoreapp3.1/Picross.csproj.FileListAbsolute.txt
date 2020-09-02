@@ -1,0 +1,13 @@
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.exe
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.deps.json
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.runtimeconfig.json
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.runtimeconfig.dev.json
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.dll
+C:\Users\migue\source\repos\Picross\bin\Debug\netcoreapp3.1\Picross.pdb
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.AssemblyInfo.cs
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.dll
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.pdb
+C:\Users\migue\source\repos\Picross\obj\Debug\netcoreapp3.1\Picross.genruntimeconfig.cache
